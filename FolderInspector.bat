@@ -1,0 +1,1 @@
+@py.exe "C:\Users\Alphonce Wadenya\Python Projects\2023\FolderInspector\FolderInspector.py" %*
